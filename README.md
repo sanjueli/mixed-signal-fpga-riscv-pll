@@ -14,15 +14,7 @@
 ![9](https://user-images.githubusercontent.com/59352026/171002313-f4fcd1d9-3cc1-41be-945d-18578a51fd60.jpg)
 
 **Result after setting exception for false path in constraints.sdc**
-
-
-
-
-
-
-
-
-
+![10](https://user-images.githubusercontent.com/59352026/171010979-a03a1e34-5a8c-44d8-b1a1-1fa9b330a9e7.jpg)
 
 
 ## Report by
